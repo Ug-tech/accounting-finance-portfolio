@@ -1,2 +1,2 @@
 # accounting-finance-portfolio
-A portfolio of accounting and financial analysis projects, including equity analysis, forecasting, and financial modeling.
+A curated portfolio of accounting and finance projects, featuring business modeling, budgeting, breakeven analysis, and strategic financial planning using Excel.
