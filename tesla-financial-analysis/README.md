@@ -39,7 +39,7 @@ The project applies corporate finance tools to assess Tesla's financial strength
 ## 📂 Project Files (View Online)
 - [📄 Executive PDF Report (View Only)](https://drive.google.com/file/d/1hxRY62P0Uvvkf4_I8HuvHVhT7HfA0Q-r/view?usp=sharing)  
   > Detailed financial analysis and modeling write-up in PDF format.
-- [📊 Interactive Excel Financial Model (Google Sheets)](https://docs.google.com/spreadsheets/d/1UOMmO1vttqsoKZ7YdgzJgf-8mOV_VC7L/edit?usp=drive_link&ouid=101535771334112261438&rtpof=true&sd=true)  
+- [📊 Interactive Excel Financial Model (Google Sheets)](https://docs.google.com/spreadsheets/d/1BaSauz1B14Ka26Hb3_Xvi9dlWoRZ5q5m/edit?usp=sharing&ouid=101535771334112261438&rtpof=true&sd=true)  
   > Explore financial statements, forecasting, and P&L modeling across multiple sheets.
 
 ---
